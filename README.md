@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🗓️ Events Explorer
 
-## Getting Started
+A mini responsive events listing web app built using **Next.js**, **TypeScript**, and **Tailwind CSS**. This project was created as part of a developer assessment to demonstrate intermediate proficiency in routing, data handling, and UI responsiveness.
 
-First, run the development server:
+---
 
+## 🚀 Features
+
+- Browse a curated list of mock events
+- View full event details via dynamic routing
+- Client-side filter by event location
+- Optimized SEO and accessibility
+- Fully responsive UI for all screen sizes
+
+---
+
+## 🔧 Tech Stack
+
+- **Next.js v15** (App Router)
+- **TypeScript**
+- **Tailwind CSS**
+- **Local JSON mock data**
+
+---
+
+## 🧠 Approach
+
+- Used `app/` directory and dynamic routing with `[id]/page.tsx` to handle detail pages.
+- Stored mock event data in a local JSON file under `data/events.json`.
+- Used `getStaticParams` and `generateStaticParams()` for static generation of event detail pages.
+- Implemented location filtering using a dropdown and local state filtering.
+- Styled using **Tailwind CSS**, ensuring mobile responsiveness.
+- Used `next/head` for SEO tags and semantic HTML for accessibility.
+
+---
+
+## 📁 Folder Structure
+
+/app
+  ├── layout.tsx
+  ├── globals.css
+  ├── page.tsx                 # Home (event listing)
+  └── events
+        └── [id]
+              └── page.tsx     # Event detail page
+
+/components
+  ├── /ui
+  ├── Header.tsx
+  ├── EventCard.tsx
+  ├── EventFilter.tsx
+
+/data
+  └── events.json              # Static mock event data
+
+/public
+  └── favicon.ico
+
+/hooks
+  └── use-mobile.ts
+
+
+/lib
+  └── utils.ts
+
+
+README.md
+
+---
+
+## 🛠️ How to Run the App
+
+1. **Clone the Repository**
 ```bash
+git clone https://github.com/Universe-7-bot/Event-Explorer
+cd events-explorer
+
+npm install
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🧩 Improvements
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Add pagination or infinite scroll to handle larger datasets
 
-## Learn More
+- Implement category-based filtering or search by title
 
-To learn more about Next.js, take a look at the following resources:
+- Integrate real backend API with CMS or Firebase
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Add event registration or RSVP functionality
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Improve accessibility with full keyboard and screen-reader support
 
-## Deploy on Vercel
+- Write unit tests using Jest and React Testing Library
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ✅ Deployed Version
+https://event-explorer-2jm7.vercel.app/
