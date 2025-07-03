@@ -1,0 +1,202 @@
+[
+    {
+        "id": "1",
+        "title": "Tech Innovation Summit 2024",
+        "date": "2024-08-15",
+        "time": "09:00",
+        "location": "San Francisco",
+        "venue": "Moscone Center",
+        "briefDescription": "Join industry leaders for a day of groundbreaking tech discussions and networking.",
+        "fullDescription": "The Tech Innovation Summit 2024 brings together the brightest minds in technology for an unprecedented gathering of innovation and collaboration. This full-day event features keynote presentations from industry pioneers, interactive workshops on emerging technologies, and unparalleled networking opportunities. Attendees will explore cutting-edge developments in AI, blockchain, quantum computing, and sustainable tech solutions. Whether you're a startup founder, enterprise executive, or tech enthusiast, this summit offers invaluable insights into the future of technology and its impact on business and society.",
+        "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=800&q=80",
+        "category": "Technology",
+        "price": "$299",
+        "capacity": 1500,
+        "tags": [
+            "AI",
+            "Innovation",
+            "Networking",
+            "Startups"
+        ],
+        "speakers": [
+            "Sarah Chen",
+            "Marcus Rodriguez",
+            "Dr. Emily Watson"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Digital Marketing Masterclass",
+        "date": "2024-08-22",
+        "time": "14:00",
+        "location": "New York",
+        "venue": "WeWork Times Square",
+        "briefDescription": "Master the latest digital marketing strategies and tools in this intensive workshop.",
+        "fullDescription": "Transform your marketing game with our comprehensive Digital Marketing Masterclass. This intensive workshop covers the entire digital marketing ecosystem, from social media strategy and content marketing to SEO, PPC, and analytics. Led by industry experts with proven track records, you'll learn hands-on techniques for creating compelling campaigns, optimizing conversion rates, and measuring ROI. The masterclass includes practical exercises, case study analyses, and personalized feedback sessions. Perfect for marketing professionals, business owners, and entrepreneurs looking to amplify their digital presence and drive meaningful business results.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+        "category": "Marketing",
+        "price": "$199",
+        "capacity": 100,
+        "tags": [
+            "Marketing",
+            "Digital",
+            "Conference",
+            "Strategy"
+        ],
+        "speakers": [
+            "David Kim",
+            "Jessica Thompson",
+            "Alex Rivera"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Sustainable Business Forum",
+        "date": "2024-09-05",
+        "time": "10:00",
+        "location": "Los Angeles",
+        "venue": "LA Convention Center",
+        "briefDescription": "Explore sustainable business practices and environmental responsibility in modern enterprises.",
+        "fullDescription": "The Sustainable Business Forum is a transformative event dedicated to reshaping business practices for a more sustainable future. This comprehensive forum brings together environmental experts, business leaders, and sustainability advocates to explore innovative approaches to corporate responsibility. Attendees will discover practical strategies for implementing sustainable operations, reducing environmental impact, and building profitable green business models. The event features panel discussions on circular economy principles, workshops on sustainable supply chain management, and networking sessions with like-minded professionals committed to positive environmental change.",
+        "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+        "category": "Business",
+        "price": "$249",
+        "capacity": 800,
+        "tags": [
+            "Sustainability",
+            "Environment",
+            "Workshop",
+            "Eco-friendly"
+        ],
+        "speakers": [
+            "Dr. Maria Santos",
+            "Thomas Green",
+            "Lisa Chang"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Creative Design Workshop",
+        "date": "2024-09-12",
+        "time": "13:00",
+        "location": "Austin",
+        "venue": "Austin Creative Hub",
+        "briefDescription": "Unleash your creativity with hands-on design thinking and innovative problem-solving techniques.",
+        "fullDescription": "Ignite your creative potential at our immersive Creative Design Workshop. This hands-on experience is designed for designers, artists, entrepreneurs, and anyone looking to enhance their creative problem-solving abilities. Participants will explore design thinking methodologies, learn advanced creative techniques, and work on real-world projects that challenge conventional thinking. The workshop covers user experience design, visual storytelling, creative ideation processes, and prototype development. Through collaborative exercises and individual projects, attendees will develop a comprehensive toolkit for approaching complex challenges with innovative solutions.",
+        "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=800&q=80",
+        "category": "Design",
+        "price": "$149",
+        "capacity": 50,
+        "tags": [
+            "Art",
+            "Culture",
+            "Exhibition",
+            "Contemporary"
+        ],
+        "speakers": [
+            "Nina Patel",
+            "Carlos Martinez",
+            "Sophie Anderson"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "AI & Machine Learning Conference",
+        "date": "2024-09-18",
+        "time": "09:30",
+        "location": "Seattle",
+        "venue": "Washington State Convention Center",
+        "briefDescription": "Dive deep into AI and ML applications across industries with leading researchers and practitioners.",
+        "fullDescription": "The AI & Machine Learning Conference is the premier gathering for artificial intelligence and machine learning professionals, researchers, and enthusiasts. This comprehensive conference explores the latest breakthroughs in AI technology, practical applications across various industries, and the ethical implications of artificial intelligence. Attendees will participate in technical sessions covering deep learning, natural language processing, computer vision, and reinforcement learning. The event features live demonstrations of cutting-edge AI applications, interactive workshops on ML implementation, and thought-provoking discussions about the future of AI in business and society.",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "category": "Technology",
+        "price": "$399",
+        "capacity": 2000,
+        "tags": [
+            "AI",
+            "Innovation",
+            "Networking",
+            "Startups"
+        ],
+        "speakers": [
+            "Dr. Andrew Liu",
+            "Rachel Foster",
+            "Michael Zhang"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Entrepreneurship Bootcamp",
+        "date": "2024-09-25",
+        "time": "08:00",
+        "location": "Miami",
+        "venue": "Miami Beach Convention Center",
+        "briefDescription": "From idea to execution - learn the fundamentals of building a successful startup.",
+        "fullDescription": "Transform your entrepreneurial vision into reality with our intensive Entrepreneurship Bootcamp. This comprehensive program guides aspiring entrepreneurs through every stage of startup development, from initial concept validation to scaling operations. Participants will learn essential skills including business model development, market research, fundraising strategies, and leadership principles. The bootcamp features real-world case studies, pitch practice sessions, and one-on-one mentoring with successful entrepreneurs. Whether you're launching your first venture or looking to refine your existing business strategy, this bootcamp provides the knowledge, tools, and network necessary for entrepreneurial success.",
+        "image": "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "Business",
+        "price": "$199",
+        "capacity": 200,
+        "tags": [
+            "Startup",
+            "Pitch",
+            "Innovation",
+            "Entrepreneurship"
+        ],
+        "speakers": [
+            "Jennifer Walsh",
+            "Roberto Silva",
+            "Amanda Brooks"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Data Science Symposium",
+        "date": "2024-10-02",
+        "time": "09:00",
+        "location": "Chicago",
+        "venue": "McCormick Place",
+        "briefDescription": "Explore advanced data science techniques and their real-world applications.",
+        "fullDescription": "The Data Science Symposium brings together data scientists, analysts, and business leaders to explore the transformative power of data-driven decision making. This comprehensive event covers advanced statistical methods, machine learning algorithms, data visualization techniques, and big data technologies. Attendees will participate in hands-on workshops using popular data science tools and platforms, learn about ethical considerations in data analysis, and discover how leading organizations are leveraging data science for competitive advantage. The symposium features expert presentations on predictive analytics, data engineering, and the latest trends in data science methodology.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+        "category": "Technology",
+        "price": "$349",
+        "capacity": 1200,
+        "tags": [
+            "ML",
+            "Big Data",
+            "LLM",
+            "AI"
+        ],
+        "speakers": [
+            "Dr. Patricia Kumar",
+            "James Wilson",
+            "Elena Rodriguez"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Health & Wellness Summit",
+        "date": "2024-10-08",
+        "time": "08:30",
+        "location": "Denver",
+        "venue": "Colorado Convention Center",
+        "briefDescription": "Discover holistic approaches to health, wellness, and personal well-being.",
+        "fullDescription": "The Health & Wellness Summit is a transformative gathering focused on holistic approaches to physical, mental, and emotional well-being. This inspiring event brings together healthcare professionals, wellness experts, and individuals committed to living healthier lives. Participants will explore evidence-based wellness strategies, learn about preventive healthcare approaches, and discover innovative treatments and therapies. The summit covers topics including nutrition science, mental health awareness, fitness optimization, stress management, and work-life balance. Through interactive workshops, expert presentations, and wellness activities, attendees will develop practical tools for achieving and maintaining optimal health and vitality.",
+        "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=800&q=80",
+        "category": "Health",
+        "price": "$179",
+        "capacity": 600,
+        "tags": [
+            "Wellness",
+            "Meditation",
+            "Yoga",
+            "Retreat"
+        ],
+        "speakers": [
+            "Dr. Sarah Mitchell",
+            "yoga instructor Maya Patel",
+            "nutritionist John Davis"
+        ]
+    }
+]
