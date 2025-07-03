@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/32c17d9b-7494-42a6-9d6d-b4664968037b)
+
+
 # 🗓️ Events Explorer
 
 A mini responsive events listing web app built using **Next.js**, **TypeScript**, and **Tailwind CSS**. This project was created as part of a developer assessment to demonstrate intermediate proficiency in routing, data handling, and UI responsiveness.
